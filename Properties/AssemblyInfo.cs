@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      月份
 //      版本号
 //      修订号
-[assembly: AssemblyVersion("2025.6.0.000")]
-[assembly: AssemblyFileVersion("2025.6.0.000")]
+[assembly: AssemblyVersion("2025.9.30.Saltedfish")]
+[assembly: AssemblyFileVersion("2025.9.30.Saltedfish")]
